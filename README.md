@@ -1,2 +1,2 @@
 # modelEntegrationOOP
-model result prediction with Object Oriented Prog.
+model processing with Object Oriented Prog.
